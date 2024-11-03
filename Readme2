@@ -1,0 +1,14 @@
+# Exercise 2: Word Cloud with Custom Shape
+
+This repository contains code to generate a word cloud in a custom shape using text from *Jane Eyre*. The word cloud can be customized with different colors, shapes, word limits, and stopwords.
+
+## Requirements
+
+Ensure you have the following libraries:
+- `wordcloud`
+- `Pillow` (PIL) for image processing
+- `matplotlib` for visualization
+
+If you’re using Google Colab, install these libraries by running:
+```python
+!pip install wordcloud pillow matplotlib
